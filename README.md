@@ -19,3 +19,10 @@
     <img src="https://fritter.dev/og-fritter.png" width="350" />
   </a>
 </div>
+
+<div align="center">
+  <h4>All projects made with love ❤️ and...</h4>
+  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
+  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=Svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/bun-282a36?style=for-the-badge&logo=bun&logoColor=fbf0df" />
+</div>
