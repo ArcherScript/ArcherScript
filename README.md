@@ -1,5 +1,5 @@
 <h2>Hi, I'm Bea!</h2>
-<span>My main focus for the past two years has been food safety. I really love Svelte, and SvelteKit. If you're interested in what I'm working on, or food safety in general <a href="https://www.linkedin.com/in/beaarcher/">connect with me on linkedin</a>!</span>
+<span>My main focus for the past two years has been food safety! If you're interested in what I'm working on, or food safety in general <a href="https://www.linkedin.com/in/beaarcher/">connect with me on linkedin</a>!</span>
 <div align=center>
   <h3>I'm currently working on <a href="https://bitekarma.com">BiteKarma ⭐</a></h3>
 </div>
